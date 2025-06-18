@@ -1,6 +1,6 @@
 # Booking API Load and Stress Test (JMeter)
 
-## 📋 What I Have Done
+## 📝 Tasks Performed
 
 - Created a JMeter test plan (`booking.jmx`) for login, booking creation, and booking search.
 - Performed Load Testing (1, 5, 10, and 20-minute durations).
