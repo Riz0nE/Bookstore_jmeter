@@ -38,7 +38,7 @@
 #### Stress Test 10 minites with 1750 User
 ![S test 4](https://github.com/user-attachments/assets/5265b69a-c994-427d-81d0-e33957a5f640)
 ![Report for stress test 1750](https://github.com/user-attachments/assets/086f46be-a1c7-496b-b0ab-2d496426277e)
-#### Stress Test 10 minites with 1850 User
+#### Stress Test 10 minites with 1850 User (Bottleneck Value)
 ![S test 5 1850](https://github.com/user-attachments/assets/14446425-bb55-423b-b65f-040de7474805)
 #### Stress Test 10 minites with 1770 User (Capacity Value)
 ![S test 5 1770](https://github.com/user-attachments/assets/a7cd6eb8-80e4-45c2-8175-c9d5884fa634)
